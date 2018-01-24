@@ -1,7 +1,8 @@
 name,abbr,color
+Academic Result Transfer Service,ARTS,#6A5ACD
 Agent Interface to Applicant Portal,AI2AP,#9ACD32
 Alexandria,Alex,#377DB8
-Allocate+(Central & Monash College),A+,#F5DEB3
+Allocate+(Central & Monash College),A+,#2966bc
 ALMA - Monash Library System/Voyager,ALMA,#EE82EE
 api.monash integration platform,api.monash,#40E0D0
 Applicant Portal (new),AP(new),#FF6347
@@ -14,7 +15,7 @@ CareerHub (Career Gateway),CHub,#708090
 Course Accreditation Review Management (CARM),CARM,#6A5ACD
 Course And Unit Publication And Information Database (CUPID),CUPID,#87CEEB
 Course Enquiry Portal (CEP),CEP,#A0522D
-Credit Precedent and Admission Requirements (CPAR),CPAR,#FFF5EE
+Credit Precedent and Admission Requirements (CPAR),CPAR,#2966bc
 Federation University,FedU,#2E8B57
 FIM,FIM,#F4A460
 Finance - TM1 Callista/KRONOS updates,TM1,#FA8072
@@ -28,12 +29,12 @@ METIS (Budget and Reporting System),METIS,#D8BFD8
 MGE Callista HDR Inquiry Program (CHIP),CHIP,#D2B48C
 Monash Abroad Portal,Abroad,#4682B4
 Monash Account Registration Services (MARS),MARS,#00FF7F
-Monash Online (Pearson),Pearson,#FFFAFA
+Monash Online (Pearson),Pearson,#055610
 Monash Reporting System,MRS,#708090
 Monash Sport - Links,MSport,#6A5ACD
 Moodle,Moodle,#87CEEB
 My eQuals / Digitary,eQuals,#A0522D
-Onestop Payment Gateway,Onestop,#FFF5EE
+Onestop Payment Gateway,Onestop,#2966bc
 Open Universities Australia Exams (OUAE),OUAE,#2E8B57
 Parking Permits,PP,#F4A460
 PRISMS,PRISMS,#FA8072
@@ -49,23 +50,23 @@ SMS Crisis Management,SMSCM,#D8BFD8
 Special Entry Access Scheme (SEAS) Calculator,SEAS,#D2B48C
 Streamline CRM,SCRM,#4682B4
 Student Course Planner (Student Maps),SCP,#00FF7F
-Student Forms – Special Consideration,SpecCon,#FFFAFA
+Student Forms – Special Consideration,SpecCon,#2966bc
 Student Futures,SFutures,#708090
 Student Printing (Paper Cut),PaperCut,#6A5ACD
 Study Abroad,SAbroad,#87CEEB
-Syllabus+,Syllabus+,#87CEEB
+Syllabus+,Syllabus+,#FF6347
 UNICRM - (SalesForce CRM),UNICRM,#A0522D
-Unit Enhancement Tracking (UET),UET,#FFF5EE
+Unit Enhancement Tracking (UET),UET,#055610
 Unit Evaluation,UnitEval,#2E8B57
 Unit Guide Manager,UGM,#F4A460
 Vice Chancellors Student Leadership Program (Ancora Imparo),VCSLP,#FA8072
 Victorian Tertiary Admissions Centre (VTAC),VTAC,#9ACD32
 Volunteering@Monash,VaM,#377DB8
-VTAC Offer Letter (VOLA),VOLA,#F5DEB3
+VTAC Offer Letter (VOLA),VOLA,#055610
 VTAC Offer Letter Message Online Database (VOLMOD),VOLMOD,#EE82EE
 VTAC Supplementary Information Form,VTACSup,#40E0D0
 Web Enrolment System (WES),WES,#FF6347
-Workload Allocations Management System (WAMS),WAMS,#FF6347
+Workload Allocations Management System (WAMS),WAMS,#00FF7F
 
 
 
