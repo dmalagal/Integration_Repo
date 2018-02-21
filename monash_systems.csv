@@ -1,6 +1,7 @@
 System,Colour
 Academic Result Transfer Service (ARTS),#377DB8
 Agent Interface to Applicant Portal,#00FF7F
+Agent Portal,#2E8B57
 Alexandria,#00FF7F
 Allocate+ (Central & Monash College),#00FF7F
 ALMA - Monash Library System / Voyager,#2E8B57
@@ -20,7 +21,9 @@ Course Accreditation Review Management (CARM) - CourseLoop,#00FF7F
 Course And Unit Publication And Information Database (CUPID),#00FF7F
 Course Enquiry Portal (CEP),#00FF7F
 Credit Precedent and Admission Requirements (CPAR),#00FF7F
+DataTools,#377DB8
 Doctoral/MPhil Exit Survey (MIGR),#00FF7F
+Equella,#00FF7F
 ERA 2018 - Excellence in Research Australia,#00FF7F
 eScholarships,#00FF7F
 Exam Scheduler,#00FF7F
@@ -54,7 +57,7 @@ Moodle,#00FF7F
 MRGS Thesis Examinations,#00FF7F
 My eQuals,#377DB8
 my.application,#00FF7F
-myResearch,#2E8B57
+my.monash (CampusM),#2E8B57
 Onestop Payment Gateway,#2E8B57
 Open Universities Australia Exams (OUAE),#00FF7F
 PaperCut,#2E8B57
