@@ -1,13 +1,13 @@
 System,Colour
 Academic Result Transfer Service (ARTS),#377DB8
+Accelerated Conferral,#2E8B57
 Agent Interface to Applicant Portal,#00FF7F
-Agent Portal,#2E8B57
+Agent Portal,#00FF7F
 Alexandria,#00FF7F
 Allocate+ (Central & Monash College),#00FF7F
 ALMA - Monash Library System / Voyager,#2E8B57
 Alumni - Raiser's Edge,#2E8B57
 Animal Ethics,#00FF7F
-api.monash integration platform,#00FF7F
 Applicant Portal (eAdmission),#00FF7F
 Australian National Data Service (ANDS),#2E8B57
 BI,#2E8B57
@@ -15,11 +15,11 @@ BIS Groups,#00FF7F
 Blue (SETU),#00FF7F
 Callista,#00FF7F
 Callista HDR Inquiry Program (CHIP),#00FF7F
+Candidature Variation,#2E8B57
 CaptureMe,#00FF7F
 CareerHub (Career Gateway),#2E8B57
 Course Accreditation Review Management (CARM) - CourseLoop,#00FF7F
 Course And Unit Publication And Information Database (CUPID),#00FF7F
-Course Enquiry Portal (CEP),#00FF7F
 Credit Precedent and Admission Requirements (CPAR),#00FF7F
 DataTools,#377DB8
 Doctoral/MPhil Exit Survey (MIGR),#00FF7F
@@ -31,7 +31,7 @@ Federation University,#2E8B57
 FIM,#2E8B57
 Finance - TM1 Callista/KRONOS updates,#2E8B57
 Find a Course,#2E8B57
-Global Careers / GradConnection,#00FF7F
+Global Careers / GradConnection,#00FF7F
 HDR Student Annual Progress Questionnaire,#00FF7F
 HDR Supervisor Outcomes System (SOAP),#00FF7F
 Higher Dreams,#00FF7F
@@ -40,19 +40,25 @@ Identity Management System,#00FF7F
 IITB Process Application (AFORS),#00FF7F
 IITB Student Portal,#00FF7F
 Indian Institute of Technology Bombay,#00FF7F
+Infonetica,#2E8B57
 InPlace,#00FF7F
 Interview Simulation / Stream,#00FF7F
-John Bertrand Leadership Series,#00FF7F
+John Bertrand Leadership Series,#00FF7F
 KRONOS,#2E8B57
+Law - Offers,#2E8B57
+Law Dashboard,#2E8B57
 Load Planning and Monitoring,#00FF7F
 Malaysia (MUM) Attendance System,#2E8B57
 METIS (Budget and Reporting System),#2E8B57
 MGE Callista HDR Inquiry Program (CHIP),#00FF7F
+Milestone Reporting,#2E8B57
 Monash Abroad Portal,#00FF7F
 Monash Account Registration Services (MARS),#2E8B57
+Monash College Library (Liberty),#2E8B57
 Monash Online (Pearson),#2E8B57
 Monash Reporting System,#00FF7F
 Monash Sport,#2E8B57
+MonPlan,#2E8B57
 Moodle,#00FF7F
 MRGS Thesis Examinations,#00FF7F
 My eQuals,#377DB8
@@ -62,11 +68,13 @@ Onestop Payment Gateway,#2E8B57
 Open Universities Australia Exams (OUAE),#00FF7F
 PaperCut,#2E8B57
 Parking Permits,#00FF7F
+Portal Booking System,#2E8B57
 PRISMS,#377DB8
 Project Timesheets,#00FF7F
 Pure (myResearch),#2E8B57
 QUASAR,#00FF7F
 Quasar - Quantity of Accredited Supervisors and Availability Report,#00FF7F
+Remedy,#2E8B57
 Research Degree Candidature Assessment,#00FF7F
 Research Degree Candidature Assessment - Reports,#00FF7F
 Research Master,#2E8B57
@@ -77,16 +85,21 @@ ROPES Profiles,#00FF7F
 SAP,#2E8B57
 Scholarship Ranking,#00FF7F
 SMS Crisis Management,#2E8B57
-Special Entry Access Scheme (SEAS) Calculator,#00FF7F
+Special Entry Access Scheme (SEAS) Calculator,#00FF7F
+Splunk,#2E8B57
+StarRez,#00FF7F
 Streamline CRM,#2E8B57
 Student Ambassadors,#00FF7F
 Student Course Planner (Student Maps),#00FF7F
 Student Forms - Special Consideration,#00FF7F
 Student Futures,#00FF7F
 Student Printing (Paper Cut),#2E8B57
+Student Refunds,#00FF7F
 Study Abroad,#00FF7F
 Syllabus+,#00FF7F
-The Monash Unit Description Avatar,#00FF7F
+The Monash Unit Description Avatar,#00FF7F
+Thesis Submissions,#2E8B57
+TRIM,#2E8B57
 UNICRM - (SalesForce CRM),#2E8B57
 Unit Enhancement Tracking (UET),#00FF7F
 Unit Evaluation,#00FF7F
